@@ -1,0 +1,44 @@
+.App {
+  margin: auto 2rem;
+  display: grid;
+  grid-template-columns: 20% auto;
+  align-items: baseline;
+  align-content: center;
+}
+
+li {
+  margin: 1rem;
+}
+
+div.reducer {
+  font-size: 2rem;
+  margin: auto 3rem;
+}
+
+div.reducer input {
+  font-size: 2rem;
+  width: 100px;
+  text-align: center;
+}
+
+div.reducer span {
+  margin: 1rem;
+}
+
+div.reducer button {
+  margin: 1rem;
+  font-size: 2rem;
+  box-sizing: border-box;
+  width: 50px;
+}
+
+textarea{
+  width: 40rem;
+  height: 20rem;
+}
+
+#somethingDiv{
+  background-color: blueviolet;
+  width: 100px;
+  height: 100px;
+}
